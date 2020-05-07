@@ -74,7 +74,7 @@
                 <!-- Banner -->
                 <div class="banner">
                   <h1>Nur Azeha</h1>
-                  <p class="cd-headline rotate-1"> <span>I am a</span> <span class="cd-words-wrapper"> <b class="is-visible">front-end developer</b> <b>wordpress expert</b> <b>beginner video editor</b> <b>freelancer</b> </span> </p>
+                  <p class="cd-headline rotate-1"> <span></span> <span class="cd-words-wrapper"> <b class="is-visible">Front-End Developer</b> <b>Wordpress Expert</b> <b>Beginner Video Editor</b> <b>Freelancer</b> </span> </p>
                 </div>
                 
                 <!-- Language -->
